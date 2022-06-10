@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RensNooren)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RensNooren&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
 <!--
 **RensNooren/RensNooren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
